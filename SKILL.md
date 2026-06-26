@@ -57,6 +57,8 @@ où tous les appelants convergent.
 
 ## Règles
 
+- **Édite, ne duplique pas.** Utilise `replace_in_file` ou `multi_replace_string_in_file` pour modifier les fichiers existants. Ne crée JAMAIS un nouveau fichier quand tu peux modifier l'existant.
+- **Jamais de code dans le chat.** Ne recrache jamais le code complet dans la conversation. Utilise exclusivement les outils d'édition de fichiers. Le chat explique, il n'affiche pas de code.
 - Pas d'abstractions non demandées : pas d'interface avec une seule implémentation, pas de factory pour un seul produit, pas de config pour une valeur qui ne change jamais.
 - Pas de boilerplate, pas de scaffolding « pour plus tard », plus tard se débrouillera tout seul.
 - Suppression plutôt qu'ajout. Ennuyeux plutôt qu'astucieux ; astucieux, c'est ce que quelqu'un décode à 3h du matin.

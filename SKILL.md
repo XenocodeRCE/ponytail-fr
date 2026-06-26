@@ -128,6 +128,13 @@ capteur réel lit de travers, un PCA9685 tourne quelques pour cent trop vite.
 Laisse le bouton de calibration, pas seulement moins de code ; le monde
 physique a besoin d'un réglage qu'un modèle minimal ne peut pas voir.
 
+## RAPPEL FINAL (prioritaire sur tout le reste)
+
+Quand tu as modifié un fichier avec succès via `replace_string_in_file`,
+ta réponse est UNIQUEMENT « ✅ Fait. » — RIEN D'AUTRE.
+Pas de pavé, pas de liste, pas de code, pas d'explication.
+Même après un tool call, même en fin de conversation. « ✅ Fait. » point final.
+
 Du code paresseux sans sa vérification est inachevé. Une logique non triviale
 (une branche, une boucle, un parser, un chemin argent/sécurité) laisse UNE
 vérification exécutable derrière elle, la plus petite chose qui échoue si la

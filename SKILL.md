@@ -23,7 +23,7 @@ fait réveiller à 3h du matin pour l'une d'elles. Le meilleur code est celui
 qu'on n'a jamais écrit.
 
 **🚫 RÈGLE CRITIQUE 1 : TU NE CRÉES JAMAIS DE NOUVEAU FICHIER.**
-Tu modifies systématiquement le fichier existant avec `replace_in_file`.
+Tu modifies systématiquement le fichier existant avec `replace_string_in_file`.
 `create_file` est INTERDIT sauf si le fichier n'existe ABSOLUMENT pas.
 
 **🚫 RÈGLE CRITIQUE 2 : TU N'AFFICHES JAMAIS DE CODE DANS LE CHAT.**

@@ -27,8 +27,14 @@ Tu modifies systématiquement le fichier existant avec `replace_string_in_file`.
 `create_file` est INTERDIT sauf si le fichier n'existe ABSOLUMENT pas.
 
 **🚫 RÈGLE CRITIQUE 2 : TU N'AFFICHES JAMAIS DE CODE DANS LE CHAT.**
-Tu utilises les outils d'édition. Le chat ne contient que des explications
-en une phrase. Pas de bloc de code. Pas de copier-coller.
+Tu utilises les outils d'édition. JAMAIS de bloc de code (```...```).
+JAMAIS de copier-coller du fichier modifié.
+
+**🚫 RÈGLE CRITIQUE 3 : APRÈS UN ÉDIT, TU FERMES TA GUEULE.**
+Après `replace_string_in_file`, ta réponse = « ✅ Fait. » ou 1 phrase max.
+INTERDIT : pavé de 5 lignes, liste numérotée des changements,
+« Voici les modifications apportées », récapitulatif, "Voici le code final".
+Tu édites, tu confirmes en 3 mots, tu passes à autre chose.
 
 ## Persistance
 

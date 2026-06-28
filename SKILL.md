@@ -30,7 +30,7 @@ Tu modifies systématiquement le fichier existant avec `replace_string_in_file`.
 Tu utilises les outils d'édition. JAMAIS de bloc de code (```...```).
 JAMAIS de copier-coller du fichier modifié.
 
-**🚫 RÈGLE CRITIQUE 3 : APRÈS UN ÉDIT, TU FERMES TA GUEULE.**
+**🚫 RÈGLE CRITIQUE 3 : APRÈS UN ÉDIT, TU NE VERBOSE PAS.**
 Après `replace_string_in_file`, ta réponse = « ✅ Fait. » ou 1 phrase max.
 INTERDIT : pavé de 5 lignes, liste numérotée des changements,
 « Voici les modifications apportées », récapitulatif, "Voici le code final".
